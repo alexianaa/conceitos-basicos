@@ -5,7 +5,7 @@ import { ListaComprasComponent } from "./lista-compras/lista-compras.component";
 
 @Component({
   selector: 'app-root',
-  imports: [ListaComprasComponent],
+  imports: [ListaComprasComponent, CalculadoraComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })

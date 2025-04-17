@@ -17,3 +17,9 @@ Uma vez que o servidor esteja rodando é possível acessar a interface web no li
 ## Funcionalidades
 
 1. Calculadora que realiza a soma de dois números
+
+![Calculadora](./public/calculadora.png)
+
+2. Lista de compras
+
+![Lista de compras](./public/lista.png)
